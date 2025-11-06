@@ -13,6 +13,11 @@
   * Quarterly 0.25% burn (max 50% total supply)
   * On-chain metadata for wallet and explorer discovery
 
+#### HOT Mint Addresses
+
+  * DEVNET=0x4d558c94baf63e0d24dbddccecd62c949946673eee8c1781c105cb44dd45b4b9
+  * MAINNET=0xf21e3929510ea5799c4765b732a47fa8d0bf9bd07f6b5db8b81c54fef90ecf7a
+
 * **Staking**
 
   * Stake and unstake HOT tokens
@@ -178,3 +183,7 @@ node hot_master.js
 * Ensure all private keys are kept **secure**.
 * The fee wallet receives **all transaction fees** automatically.
 * Deflation logic automatically stops when **50% of total supply is burned**.
+
+## Recources
+
+https://docs.sui.io/guides/developer/getting-started/sui-install
